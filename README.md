@@ -36,10 +36,4 @@ The Buttons in the bottom HBox pane will perform the following functions on the 
 
 You can create another inner class that implements the EventHandler interface to handle the button click events or you can create anonymous listeners for the Buttons.
 
-### Grading
 
-10pts – GUI with no event handling.
-
-15pts – GUI plus circle button functionality. A mouse press causes CircleButton background to change. The mouse release causes the circle button value to be appended onto the TextField.
-
-20pts – Command Button functions implemented.

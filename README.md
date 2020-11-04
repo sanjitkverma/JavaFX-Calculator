@@ -1,8 +1,5 @@
 ﻿# JavaFX Event Handling
-
-This is a JavaFX lab for COMP 167, Computer Program Design at North Carolina A&T State University.
-
-Instructor: Professor Karen Schnell - klschnell@ncat.edu
+In this lab I created a Java GUI Calculator. It contains buttons that are clickable and is able to compute/display solutions according to user input.
 
 ### Lab Description
 
